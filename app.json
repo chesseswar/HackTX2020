@@ -1,0 +1,12 @@
+{
+  "name": "HackTX",
+  "displayName": "HackTX",
+  "expo": {
+    "name": "HackTX",
+    "slug": "HackTX",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
